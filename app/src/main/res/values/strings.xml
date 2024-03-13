@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">HeroesApp</string>
+    <string name="email">Correo electronico</string>
+    <string name="password">Contraseña</string>
+    <string name="log_in">Iniciar sesion</string>
+    <string name="correo_electronico">Correo Electronico</string>
+    <string name="iniciar_sesion">Iniciar sesion</string>
+    <string name="bienvenido_daniel">Bienvenido Daniel</string>
+    <string name="personajes_de_dc">PERSONAJES DE DC</string>
+    <string name="personajes_de_marvel">PERSONAJES DE MARVEL</string>
+    <string name="title">title</string>
+    <string name="publishers">PUBLISHERS</string>
+    <string name="descripcion_del_heroe">Descripcion del heroe</string>
+    <string name="nombre_del_heroe">Nombre del Heroe</string>
+</resources>
